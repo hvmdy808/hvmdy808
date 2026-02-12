@@ -16,7 +16,7 @@ Motivated and detail-oriented Computer Science student at the Faculty of Compute
 ![](https://github-profile-trophy.vercel.app/?username=hvmdy808&theme=blue_navy&no-frame=false&no-bg=false&margin-w=4)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=hvmdy808&limit=5&theme=blue_navy&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=hvmdy808&limit=5&theme=material-palenight&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=hvmdy808&icon=5&color=1)](https://visitcount.itsvg.in)
